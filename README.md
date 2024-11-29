@@ -1,4 +1,5 @@
-Thank you for sharing this insightful Market Analysis Dashboard. Let's dive into the key information presented in this comprehensive visualization:
+# MARKET ANALYSIS
+![Alt text for the image](./MARKET.png)
 
 ## Purpose
 This dashboard appears to be designed to provide a holistic view of various market and demographic factors that could influence business decisions or marketing strategies. It covers aspects such as age distribution, marital status, housing, education, income, and job profiles of the target audience.
